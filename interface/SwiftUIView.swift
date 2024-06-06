@@ -20,7 +20,7 @@ struct WelcomePage: View {
                                     .foregroundStyle(.white)
             }
             
-            Text("Welcome mon Ami !")
+            Text("Welcome mon gar !")
                 .font(.title)
                 .fontWeight(.semibold)
                 .padding(.top)
